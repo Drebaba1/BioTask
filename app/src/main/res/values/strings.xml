@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stagetask</string>
+    <string name="akinyemi_damilare_michael">AKINYEMI DAMILARE MICHAEL</string>
+    <string name="track">Track</string>
+    <string name="android_development_kotlin">Android Development (Kotlin)</string>
+    <string name="track_level">Track Level</string>
+    <string name="beginner_stage_1">Beginner (Stage 1)</string>
+    <string name="bio">Bio</string>
+    <string name="more">More</string>
+    <string name="detai">I am an android developer and also a student of Economics. I aspire to be an accomplished developer so as to use my skills to contribute to the technological advancement of this country and the world. I\'m simple, jovial and easy to work with, Click more to see more of my attributes</string>
+</resources>
